@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "password123"
+    },
+    {
+      "name": "Dinakar",
+      "email": "dinakar@123",
+      "password": "Dinakar@123",
+      "id": "GZ892Jt1vz0"
+    },
+    {
+      "name": "Ram",
+      "email": "Ram@gmail.com",
+      "password": "Ram@123",
+      "id": "RhFrvu_GOEM"
+    },
+    {
+      "name": "Raj",
+      "email": "Raj@gmail.com",
+      "password": "Raj@123",
+      "id": "Hy-r1H7k5o0"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "name": "Sample Project",
+      "description": "Test project",
+      "owner_id": "1",
+      "created_at": "2026-04-01"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "shopping list",
+      "status": "done",
+      "priority": "medium",
+      "project_id": 1,
+      "id": "hQ-akpQydxI"
+    },
+    {
+      "title": "vegetable list",
+      "status": "in_progress",
+      "priority": "medium",
+      "project_id": 1,
+      "id": "1ootL3m-lgM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
