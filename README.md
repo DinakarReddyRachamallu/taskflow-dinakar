@@ -47,5 +47,5 @@ This project focuses on building a clean, scalable frontend with a good user exp
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/taskflow-yourname
+git clone https://github.com/DinakarReddyRachamallu/taskflow-dinakar
 cd taskflow-frontend
